@@ -7,8 +7,9 @@ Here are a few steps to set yourself up to start on software engineering.
 
 - [Make yourself an account on GitHub](https://github.com/join)
 - Send one of the coaches a PM on slack with your GitHub name, so you can be added to the CreateCodeLearn GitHub organization.
-- [Install git on your machine](https://linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
 - [Do a Hello World github example (in the browser)](https://guides.github.com/activities/hello-world/)
+- [Install git on your machine](https://linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/)
+
 
 ##### Next, set up your file editor:
 
