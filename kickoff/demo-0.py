@@ -2,7 +2,7 @@
 
 ## define a function
 def main():
-    print "Hello, World!"
+    print "Hello, World! it's Wednesday."
 
 ##call the main function
 main()
